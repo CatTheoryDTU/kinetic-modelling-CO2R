@@ -9,4 +9,8 @@
 *.json filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 >>>>>>> 56c8f9b (First commit)
+=======
+*.md filter=lfs diff=lfs merge=lfs -text
+>>>>>>> d1402bd (Transition metal kinetics)
