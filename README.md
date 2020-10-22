@@ -1,5 +1,3 @@
-Unified Mechanistic Understanding of CO2 Reduction to CO on Transition Metal and Single Atom Catalysts
--------------------------
-
-Contains all data required to reproduce figures in the manuscript 10.26434/chemrxiv.14427986
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c116c8dd4ef8ddd095aed9139913b08f3f96ca67e7ff827f522268ac329348
+size 224
