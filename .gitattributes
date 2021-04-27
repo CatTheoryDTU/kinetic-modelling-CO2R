@@ -13,4 +13,18 @@
 >>>>>>> 56c8f9b (First commit)
 =======
 *.md filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 >>>>>>> d1402bd (Transition metal kinetics)
+=======
+*.db filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.sh filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.traj filter=lfs diff=lfs merge=lfs -text
+*.bvox filter=lfs diff=lfs merge=lfs -text
+*.cube filter=lfs diff=lfs merge=lfs -text
+*.wrl filter=lfs diff=lfs merge=lfs -text
+*.x3d filter=lfs diff=lfs merge=lfs -text
+*.sla filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8b6bb6b (New revision to scripts for data)

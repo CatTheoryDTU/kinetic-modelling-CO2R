@@ -1,0 +1,1 @@
+../../2_free_energy_diagram/output/catmap_potential_-1.40.txt
