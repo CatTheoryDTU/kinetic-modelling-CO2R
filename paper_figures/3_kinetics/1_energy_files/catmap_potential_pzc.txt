@@ -1,0 +1,1 @@
+../../2_free_energy_diagram/output/catmap_potential_pzc.txt
