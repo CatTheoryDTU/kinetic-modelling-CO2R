@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+ase
+xlrd==2.0.0
+
+[aiida-env]
+aiida-core
+aiida-catmap
+
+[pre-commit]
+pre-commit
+pylint

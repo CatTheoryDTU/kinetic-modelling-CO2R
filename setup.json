@@ -1,0 +1,32 @@
+{
+    "name": "kinetic-modelling-CO2R",
+    "author": "Sudarshan Vijay",
+    "author_email": "vijays@fysik.dtu.dk",
+    "description": "Package to reproduce the figures in 10.26434/chemrxiv.14427986",
+    "url": "https://github.com/sudarshanv01/kinetic-modelling-CO2R",
+    "license": "MIT",
+    "classifiers": [
+        "Programming Language :: Python",
+        "Intended Audience :: Science/Research",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: English"
+    ],
+    "version": "0.2.0",
+    "install_requires": [
+        "numpy",
+        "scipy",
+        "matplotlib",
+        "ase",
+        "xlrd==2.0.0"
+    ],
+    "extras_require": {
+        "pre-commit": [
+            "pre-commit",
+            "pylint"
+        ],
+        "aiida-env": [
+            "aiida-core",
+            "aiida-catmap"
+        ]
+    }
+}
