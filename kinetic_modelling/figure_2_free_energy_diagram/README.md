@@ -1,4 +1,3 @@
-
-`figure_2_free_energy_diagram`
-
-Plot the free energy diagram in Figure 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29e8068fd880f0056f4f4bbc49e5c7d7809a30334076129194bccee0b674413
+size 259

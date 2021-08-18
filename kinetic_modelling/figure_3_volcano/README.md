@@ -1,8 +1,3 @@
-
-Kinetic modelling of CO2 to CO using AiiDA-CatMAP
--------------------------------------------------
-
-1. energy_files: raw .txt files that are converted into SingleFileNodes
-2. mkm_run_files: Recipies of the the .mkm file which is fed into AiiDACatMAP
-3. analysis: contains the scripts with plots the final figure
-4. export: (TODO) contains the export node file from AiiDA which can be read in
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b12ef54aeb4401df4106cf817ff5719c351d1e8375813401ff9baa253339a3a
+size 579
